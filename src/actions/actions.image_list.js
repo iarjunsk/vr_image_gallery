@@ -4,7 +4,7 @@ export function fetchImages(){
     return function(dispatch){
         dispatch({type:"FETCH_IMAGES_INIT"});
 
-        axios.get("http://demo0813639.mockable.io/getPanos")
+        axios.get("https://demo0813639.mockable.io/getPanos")
         .then((response)=>{
             dispatch({type:"FETCH_IMAGES_FULFILLED", payload: response.data})
         })
