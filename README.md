@@ -1,4 +1,4 @@
-## React-Redux VR image galary built using A-Frame
+## React-Redux VR image gallery built using A-Frame
 
 Features :
 1. Implemented react-redux as a front-end
