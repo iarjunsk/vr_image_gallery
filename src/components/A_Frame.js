@@ -22,7 +22,7 @@ class A_Frame extends Component {
     render(){
         return (
         <a-scene id="a_frame">
-            <a-sky src={this.props.settingsObj.imageID} rotation="0 -130 0"></a-sky>
+            <a-sky src={this.props.settingsObj.imageID} crossorigin="anonymous" rotation="0 -130 0"></a-sky>
         </a-scene>
         );
     }
