@@ -7,10 +7,6 @@
 2. Used A-frame to load the VR images
 3. Handled 'Access-Control-Allow-Origin' using [Chrome addon](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en). (Temporary Solution)
 
-### Instructions :
-1. Install & enable this [Chrome addon](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en)
-2. Visit [my app.](https://vr-gallery.herokuapp.com/)
-
-### Video Tutorial: 
+### Video Tutorial: (UPDATE 11/06/2017 : No need of chrome addon) 
 
 [![VR-Image Gallery ](https://img.youtube.com/vi/9YNpkjSs79g/0.jpg)](https://www.youtube.com/watch?v=9YNpkjSs79g&feature=youtu.be)
